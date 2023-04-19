@@ -81,7 +81,7 @@ return(
       <div className="card-body text-center">
       <img className="text-center" src="https://kesara-hansajith.github.io/images/pic1.jpg" style={{"clip-path":"circle()","width":"50px","height":"50px"}} />
       <a href='https://kesara-hansajith.github.io/'><p><b>Kesara Hansajith</b></p></a> 
-      </div>
+    </div>
     </div>
     <br />
   </div>
