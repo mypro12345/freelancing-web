@@ -217,7 +217,7 @@ function Work()
   </div>
   <div className="col-6 col-sm-6 col-md-6 col-lg-3">
     <div className="card">
-      <img className="card-img-top" src="https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-6/299022312_102478072586936_8183423813317646640_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=5ob9WJzg5b8AX8oEoBp&_nc_ht=scontent.fcmb1-2.fna&oh=00_AfDpQdEjG80x28bXs6xBaoBmX-DbXLfNfeKG_oQz3xwLfw&oe=643F50D5" />
+      <img className="card-img-top" src="https://scontent.fcmb1-2.fna.fbcdn.net/v/t39.30808-1/340317575_940390183974862_9055443130108196510_n.jpg?stp=dst-jpg_p240x240&_nc_cat=101&ccb=1-7&_nc_sid=7206a8&_nc_ohc=245XKfkXnoAAX_uswVA&_nc_ht=scontent.fcmb1-2.fna&oh=00_AfBub84D69dZjNhMUR6VmVH9gBEbWPE3x5t6dkf0NdWZ5A&oe=64449E76" />
       <div className="card-body text-center">
         <p><b>Hi! I'am Video Editor</b></p>
       </div>
