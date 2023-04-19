@@ -25,7 +25,7 @@ function Navigation()
             <b><a href="" style={{color:"white"}} className="nav-link" >Become a seller</a></b> 
             </li>
             <li className="nav-item mx-1">
-            <b><a href="" style={{color:"white"}} className="nav-link" to="/Sign">Sign</a></b> 
+            <b><a href="/Sign" style={{color:"white"}} className="nav-link">Sign</a></b> 
             </li>
             <li className="nav-item mx-1 d-none d-md-block">
            <b><a href="/Join" style={{color:"white"}} className="nav-link" >Join</a></b>    
